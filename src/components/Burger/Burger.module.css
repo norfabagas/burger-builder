@@ -9,6 +9,10 @@
   scrollbar-width: none;  /* Firefox */
 }
 
+.Message {
+  text-align: center;
+}
+
 .Burger::-webkit-scrollbar {
   display: none; /* Chrome, Safari, Opera */
 }
